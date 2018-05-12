@@ -1,0 +1,31 @@
+_repo: Memorial-Address-on-the-Life-and-Character-of-Abraham-LincolnDelivered-at-the-request-of-both__26750
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bancroft, George
+    birthdate: 1800
+    deathdate: 1891
+    gutenberg_agent_id: '32221'
+    url: http://www.gutenberg.org/2009/agents/32221
+    wikipedia: http://en.wikipedia.org/wiki/George_Bancroft
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26750'
+  lccn: '12006641'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+title: 'Memorial Address on the Life and Character of Abraham Lincoln
+
+  Delivered at the request of both Houses of Congress of America'
+url: http://www.gutenberg.org/ebooks/26750
