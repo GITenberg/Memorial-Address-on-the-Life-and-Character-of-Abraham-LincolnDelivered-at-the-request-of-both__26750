@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32221
     wikipedia: http://en.wikipedia.org/wiki/George_Bancroft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26750#Memorial-Address-on-the-Life-and-Character-of-Abraham-LincolnDelivered-at-the-request-of-both_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-10-02'
 gutenberg_type: Text
